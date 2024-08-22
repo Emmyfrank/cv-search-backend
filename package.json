@@ -2,7 +2,7 @@
   "name": "cv-search-api",
   "version": "1.0.0",
   "main": "dist/index.js",
-  "author": "Emmanuel Dushime",
+  "author": "Ngendahimana Emmanuel",
   "license": "MIT",
   "scripts": {
     "start": "node dist/index.js",
