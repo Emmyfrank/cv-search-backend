@@ -3,14 +3,14 @@
   "version": "1.0.0",
   "main": "dist/index.js",
   "author": "Ngendahimana Emmanuel",
-  "license": "MIT",
+  "license": "emmy",
   "scripts": {
     "start": "node dist/index.js",
     "dev": "nodemon src/index.ts",
     "build": "tsc"
   },
   "engines": {
-    "node": ">=14.x"
+    "node": "22.x"
   },
   
   "dependencies": {
